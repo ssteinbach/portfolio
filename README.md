@@ -37,7 +37,7 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 
 # Quadplay
 
-Quadplay: [![quadplay✜](https://github.com/morgan3d/quadplay)](https://github.com/morgan3d/quadplay)
+Quadplay: [![quadplay✜](https://github.com/morgan3d/quadplay/blob/master/doc/emulator.png)](https://github.com/morgan3d/quadplay)
 
 ## Games
 
