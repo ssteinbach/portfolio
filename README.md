@@ -1,6 +1,19 @@
 # Portfolio
 simple portfolio site w/ past projects
 
+## Quadplay Projects
+
+Engine by @casualeffects: [![quadplay✜](https://morgan3d.github.io/quadplay/console/logo-116x20.png)](https://github.com/morgan3d/quadplay)
+
+### Games
+
+|Beat the Gobblins|Across The Lake|
+|-----------------|---------------|
+|[![BEAT THE GOBBLINS](https://img.itch.zone/aW1hZ2UvNTY0MTkyLzI5NjMzMjUuZ2lm/794x1000/JhQtF5.gif)](https://stephan-gfx.itch.io/beat-the-gobblins)|[![Across The Lake](https://img.itch.zone/aW1hZ2UvNjE2MDMwLzMyOTA3NTQuZ2lm/347x500/O%2F6yeI.gif)](https://stephan-gfx.itch.io/across-the-lake)|
+|[Post Mortem](https://docs.google.com/document/d/1Z8iBf_VUf_26AmKrWBJ9THso-UCqWl5NsIOpnSF9-1s/edit#)|[Post Mortem](https://stephan-gfx.itch.io/across-the-lake/devlog/141410/ludum-dare-46-post-mortem-across-the-lake)|
+|2/15/2020|4/20/2020|
+|Started as a jam game w/ Ed Luong, features awesome music by Marlena Fecho.|Ludum Dare game jam game for LD46, finished 27th overall and 12th in mood (out of 3576 submissions).  Theme was "Keep it Alive"| 
+
 ## Pico8 Projects
 
 Pico8: [![Pico8](https://www.lexaloffle.com/gfx/lexaloffle-pico8.png)](http://www.lexaloffle.com/pico-8.php)
@@ -37,19 +50,6 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 |[![Conway's Game of Life](https://img.itch.zone/aW1nLzIxMjQ0MTkuZ2lm/315x250%23cm/41ASDq.gif)](https://stephan-gfx.itch.io/conways-game-of-life)|
 |5/19/2019|
 |Done as an intro/invitation cart for an Alife interest group meet up|
-
-## Quadplay Projects
-
-Engine by @casualeffects: [![quadplay✜](https://morgan3d.github.io/quadplay/console/logo-116x20.png)](https://github.com/morgan3d/quadplay)
-
-### Games
-
-|Beat the Gobblins|Across The Lake|
-|-----------------|---------------|
-|[![BEAT THE GOBBLINS](https://img.itch.zone/aW1hZ2UvNTY0MTkyLzI5NjMzMjUuZ2lm/794x1000/JhQtF5.gif)](https://stephan-gfx.itch.io/beat-the-gobblins)|[![Across The Lake](https://img.itch.zone/aW1hZ2UvNjE2MDMwLzMyOTA3NTQuZ2lm/347x500/O%2F6yeI.gif)](https://stephan-gfx.itch.io/across-the-lake)|
-|[Post Mortem](https://docs.google.com/document/d/1Z8iBf_VUf_26AmKrWBJ9THso-UCqWl5NsIOpnSF9-1s/edit#)|[Post Mortem](https://stephan-gfx.itch.io/across-the-lake/devlog/141410/ludum-dare-46-post-mortem-across-the-lake)|
-|2/15/2020|4/20/2020|
-|Started as a jam game w/ Ed Luong, features awesome music by Marlena Fecho.|Ludum Dare game jam game for LD46, finished 27th overall and 12th in mood (out of 3576 submissions).  Theme was "Keep it Alive"| 
 
 
 ### Utility Projects / Demos
