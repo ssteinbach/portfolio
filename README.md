@@ -15,7 +15,7 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 ## Games
 
 |Picotris Attack|Pentomino|Pushback|Dead Man's Slope|Pico De Pon|
-|-----|----|----|----|----|----|
+|-----|----|----|----|----|
 |[![Picotris Attack](https://www.lexaloffle.com/bbs/thumbs/pico37969.png)](https://www.lexaloffle.com/bbs/?tid=2925)|[![Pentomino](https://www.lexaloffle.com/bbs/thumbs/pico37638.png)](https://www.lexaloffle.com/bbs/?tid=28815)|[![Pushback](https://www.lexaloffle.com/bbs/thumbs/pico40479.png)](https://www.lexaloffle.com/bbs/?tid=29285)|[![Dead Man's Slope](https://www.lexaloffle.com/bbs/thumbs/pico46800.png)](https://www.lexaloffle.com/bbs/?tid=30307)|[![Pico De Pon](https://www.lexaloffle.com/bbs/thumbs/pico8_picodepon-2.png)](https://www.lexaloffle.com/bbs/?tid=37280)|
 |[source](https://github.com/stevelavietes/pico8carts/blob/master/picotrisattack.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/pentomino.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/mazeburger.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/pushback.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/dead_mans_slope.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/picodepon.p8)|
 |12/21/2015|2/12/2017|5/7/2017|11/29/2017|04/07/2020|
@@ -47,7 +47,6 @@ Quadplay: [![quadplay✜](https://morgan3d.github.io/quadplay/console/logo-116x2
 |Beat the Gobblins|Across The Lake|
 |-----------------|---------------|
 |[![BEAT THE GOBBLINS](https://img.itch.zone/aW1hZ2UvNTY0MTkyLzI5NjMzMjUuZ2lm/794x1000/JhQtF5.gif)](https://stephan-gfx.itch.io/beat-the-gobblins)|[![Across The Lake](https://img.itch.zone/aW1hZ2UvNjE2MDMwLzMyOTA3NTQuZ2lm/347x500/O%2F6yeI.gif)](https://stephan-gfx.itch.io/across-the-lake)|
-|-----------------|---------------|
 |[Post Mortem](https://docs.google.com/document/d/1Z8iBf_VUf_26AmKrWBJ9THso-UCqWl5NsIOpnSF9-1s/edit#)|[Post Mortem](https://stephan-gfx.itch.io/across-the-lake/devlog/141410/ludum-dare-46-post-mortem-across-the-lake)|
 |2/15/2020|4/20/2020|
 
@@ -55,6 +54,7 @@ Quadplay: [![quadplay✜](https://morgan3d.github.io/quadplay/console/logo-116x2
 ## Utility Projects / Demos
 
 |Acceleration Demo|Bounce Demo|Camera Shake|Transition/Sequence Demo|
+|----|----|----|----|
 |[Acceleration Demo](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/accel_demo)|[Bounce Demo](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/sproing)|[Camera Shake](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/camera_shake)|[Transition/Sequence](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/sequence_demo)|
 
 
