@@ -61,17 +61,11 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 
 # Unfinished Prototypes
 
-* |Space flight FX test|
-|----|
-|![Flying Around](img/PICO-8_31.gif) ![Shootin](img/PICO-8_38.gif)|
-|Pico8|
-|  |
-
-* |"Reach"|"Into the Pitch"|
-----|----|
-|![Map Movin'](img/reach_production_cost.gif)|![Movin' and Turnin'](img/pitch.gif)|
-|Quadplay|Quadplay
-|4x-ish|Originally for 7drl|
+|Space flight FX test|"Reach"|"Into the Pitch"|
+|----|----|----|
+|![Flying Around](img/PICO-8_31.gif) ![Shootin](img/PICO-8_38.gif)|![Map Movin'](img/reach_production_cost.gif)|![Movin' and Turnin'](img/pitch.gif)|
+|Pico8|Quadplay|Quadplay
+| |4x-ish|Originally for 7drl|
 
 |Planet Generator|Climbing Violets|Baseball Prototype|
 |----|----|----|
