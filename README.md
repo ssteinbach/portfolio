@@ -63,7 +63,7 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 
 |Space flight FX test|"Reach"|"Into the Pitch"|
 |----|----|----|
-|![Flying Around](img/PICO-8_31.gif) ![Shootin](img/PICO-8_38.gif)|![Map Movin'](img/reach_production_cost.gif)|![Movin' and Turnin'](img/Unknown copy 4.gif)|
+|![Flying Around](img/PICO-8_31.gif) ![Shootin](img/PICO-8_38.gif)|![Map Movin'](img/reach_production_cost.gif)|![Movin' and Turnin'](img/pitch.gif)|
 |Pico8|Quadplay|Quadplay|C++/GLSL|Pico8|
 | |4x-ish|Originally for 7drl| |Had a cool level editor by @stevelavietes|
 
