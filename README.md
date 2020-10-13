@@ -64,10 +64,9 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 |Space flight FX test|"Reach"|"Into the Pitch"|
 |----|----|----|
 |![Flying Around](img/PICO-8_31.gif) ![Shootin](img/PICO-8_38.gif)|![Map Movin'](img/reach_production_cost.gif)|![Movin' and Turnin'](img/pitch.gif)|
-|Pico8|Quadplay|Quadplay|C++/GLSL|Pico8|
-| |4x-ish|Originally for 7drl| |Had a cool level editor by @stevelavietes|
+|Pico8|Quadplay|Quadplay|C++/GLSL|Pico8| 
 
 |Planet Generator|Climbing Violets|Baseball Prototype|
 |----|----|----|
 |Screen shot of C++ version, click image to see on shadertoy:[![View on Shadertoy](img/in_motion_ufo50.mov)](https://www.shadertoy.com/embed/MlyyzK?gui=true&t=10&paused=true&muted=false)|![Climbin'](img/PICO-8_41.gif) ![Editin'](img/PICO-8_26.gif)|![Swingin'](img/PICO-8_21.gif)|
-
+| |4x-ish|Originally for 7drl| |Had a cool level editor by @stevelavietes|
