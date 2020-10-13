@@ -1,5 +1,5 @@
 # Portfolio
-simple portfolio site w/ past projects
+Online projects by Stephan Steinbach. Thanks for coming by!
 
 ## Quadplay Projects
 
@@ -61,9 +61,9 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 
 # Unfinished Prototypes
 
-|Space flight FX test|"Reach"|"Into the Pitch"|Planet Generator|Climbing Violets|
-|----|----|----|----|----|
-|(gif)|(gif)|(gif)|(gif)|(gif)|(gif)|
+|Space flight FX test|"Reach"|"Into the Pitch"|Planet Generator|Climbing Violets|Baseball Prototype|
+|----|----|----|----|----|----|
+|![Flying Around](img/PICO-8_31.gif) ![Shootin](img/PICO-8_38.gif)|![Map Movin'](img/reach_production_cost.gif)|![Movin' and Turnin'](img/Unknown copy 4.gif)|<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/MlyyzK?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe> ![C++ Editor](img/in_motion_ufo50.mov)|![Climbin'](img/PICO-8_41.gif) ![Editin'](img/PICO-8_26.gif)|![Swingin'](img/PICO-8_21.gif)|
 |Pico8|Quadplay|Quadplay|C++/GLSL|Pico8|
 | |4x-ish|Originally for 7drl| |Had a cool level editor by @stevelavietes|
 
