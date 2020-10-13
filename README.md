@@ -69,5 +69,5 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 
 |Planet Generator|Climbing Violets|Baseball Prototype|
 |----|----|----|
-|<iframe width="640" height="360" frameborder="0" src="https://www.shadertoy.com/embed/MlyyzK?gui=true&t=10&paused=true&muted=false" allowfullscreen></iframe> ![C++ Editor](img/in_motion_ufo50.mov)|![Climbin'](img/PICO-8_41.gif) ![Editin'](img/PICO-8_26.gif)|![Swingin'](img/PICO-8_21.gif)|
+|Screen shot of C++ version, click image to see on shadertoy:[![View on Shadertoy](img/in_motion_ufo50.mov)](https://www.shadertoy.com/embed/MlyyzK?gui=true&t=10&paused=true&muted=false)|![Climbin'](img/PICO-8_41.gif) ![Editin'](img/PICO-8_26.gif)|![Swingin'](img/PICO-8_21.gif)|
 
