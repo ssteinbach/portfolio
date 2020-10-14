@@ -30,7 +30,7 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 |[![Picotris Attack](https://www.lexaloffle.com/bbs/thumbs/pico37969.png)](https://www.lexaloffle.com/bbs/?tid=2925)|[![Pentomino](https://www.lexaloffle.com/bbs/thumbs/pico37638.png)](https://www.lexaloffle.com/bbs/?tid=28815)|[![Pushback](https://www.lexaloffle.com/bbs/thumbs/pico40479.png)](https://www.lexaloffle.com/bbs/?tid=29285)|[![Dead Man's Slope](https://www.lexaloffle.com/bbs/thumbs/pico46800.png)](https://www.lexaloffle.com/bbs/?tid=30307)|[![Pico De Pon](https://www.lexaloffle.com/bbs/thumbs/pico8_picodepon-2.png)](https://www.lexaloffle.com/bbs/?tid=37280)|
 |12/21/2015|2/12/2017|5/7/2017|11/29/2017|04/07/2020|
 |Based on Tetris Attack, first shipped project in pico8.|Done right before GDC in 2017|Attempt at a small game done quickly, wanted to try and do something that wasn't an adaptation.|Started while snowed in one winter and thinking back on ski free (although plays nothing like that game).|Steve and I returned to Tetris Attack after having worked on a megadrive version, as an homage to the awesome pico8 community.  Features music by tesselode and art from a variety of great games from the pico8 community that inspired us!|
-|[source](https://github.com/stevelavietes/pico8carts/blob/master/picotrisattack.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/pentomino.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/mazeburger.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/pushback.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/dead_mans_slope.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/picodepon.p8)|
+|[Source](https://github.com/stevelavietes/pico8carts/blob/master/picotrisattack.p8)|[Source](https://github.com/stevelavietes/pico8carts/blob/master/pentomino.p8)|[Source](https://github.com/stevelavietes/pico8carts/blob/master/mazeburger.p8)|[Source](https://github.com/stevelavietes/pico8carts/blob/master/pushback.p8)|[Source](https://github.com/stevelavietes/pico8carts/blob/master/dead_mans_slope.p8)|[Source](https://github.com/stevelavietes/pico8carts/blob/master/picodepon.p8)|
 
 # Demos/Utilties/Examples/Other
 
@@ -44,13 +44,13 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 ## Pico8
 
 * Stdlib (basecode for our projects):
-    * [source](https://github.com/ssteinbach/pico8carts/blob/master/stdlib.p8)
+    * [Source](https://github.com/ssteinbach/pico8carts/blob/master/stdlib.p8)
 
 |One Euro Filter|Performance Tests|Easing Function Gallery|
 |-----|----|----|
 |[![One Euro Filter](https://www.lexaloffle.com/bbs/thumbs/pico42459.png)](https://www.lexaloffle.com/bbs/?tid=29646)|[![Performance Tests](https://www.lexaloffle.com/bbs/thumbs/pico44897.png)](https://www.lexaloffle.com/bbs/?tid=30032)|[![Easing Function Gallery](https://www.lexaloffle.com/bbs/thumbs/pico44294.png)](https://www.lexaloffle.com/bbs/?pid=41657&tid=29488)|
-|[source](https://github.com/stevelavietes/pico8carts/blob/master/one_euro_filter.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/performance_test_gallery.p8)|[source](https://github.com/stevelavietes/pico8carts/blob/master/easing_gallery.p8)|
 |07/14/2017|10/4/2017|09/18/2017|
+|[Source](https://github.com/stevelavietes/pico8carts/blob/master/one_euro_filter.p8)|[Source](https://github.com/stevelavietes/pico8carts/blob/master/performance_test_gallery.p8)|[Source](https://github.com/stevelavietes/pico8carts/blob/master/easing_gallery.p8)|
 
 ## Tweet Carts
 
