@@ -7,9 +7,11 @@ Engines mentioned:
 
 # Completed Games
 
+*Click the thumbnail to play online!*
+
 ## Quadplay
 
-|Beat the Gobblins|Across The Lake|
+|[Beat the Gobblins](https://stephan-gfx.itch.io/beat-the-gobblins)|[Across The Lake](https://stephan-gfx.itch.io/across-the-lake)|
 |-----------------|---------------|
 |[![BEAT THE GOBBLINS](https://img.itch.zone/aW1hZ2UvNTY0MTkyLzI5NjMzMjUuZ2lm/794x1000/JhQtF5.gif)](https://stephan-gfx.itch.io/beat-the-gobblins)|[![Across The Lake](https://img.itch.zone/aW1hZ2UvNjE2MDMwLzMyOTA3NTQuZ2lm/347x500/O%2F6yeI.gif)](https://stephan-gfx.itch.io/across-the-lake)|
 |[Post Mortem](https://docs.google.com/document/d/1Z8iBf_VUf_26AmKrWBJ9THso-UCqWl5NsIOpnSF9-1s/edit#)|[Post Mortem](https://stephan-gfx.itch.io/across-the-lake/devlog/141410/ludum-dare-46-post-mortem-across-the-lake)|
@@ -19,11 +21,8 @@ Engines mentioned:
 
 ## Pico8
 
-
 Pico8 projects done either in collaboration w/ Steve Lavieties or based on
 co-developed basecode.
-
-Click the thumbnail to play the games for free on the Pico8 BBS!
 
 |Picotris Attack|Pentomino|Pushback|Dead Man's Slope|Pico De Pon|
 |-----|----|----|----|----|
