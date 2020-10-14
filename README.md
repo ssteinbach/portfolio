@@ -71,4 +71,4 @@ Click the thumbnail to play the games for free on the Pico8 BBS!
 |----|----|----|
 |Screen shot of C++ version, click image to see on shadertoy:[![View on Shadertoy](img/in_motion_ufo50.mov)](https://www.shadertoy.com/embed/MlyyzK?gui=true&t=10&paused=true&muted=false)|![Climbin'](img/PICO-8_41.gif) ![Editin'](img/PICO-8_26.gif)|![Swingin'](img/PICO-8_21.gif)|
 |C++/GLSL|Pico8|Pico8|
-|Ended up using this to generate planets for some other stuff|Had a cool level editor by @stevelavietes| |
+|wanted to learn about procedural generation and raymarching.  planet generation algorithm is my interpretation of an algorithm from star control 2.|Had a cool level editor by @stevelavietes| |
