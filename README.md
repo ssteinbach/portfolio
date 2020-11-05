@@ -70,5 +70,5 @@ co-developed basecode.
 |Planet Generator|Climbing Violets|Baseball Prototype|
 |----|----|----|
 |Screen shot of C++ version, click image to see on shadertoy:[![View on Shadertoy](img/in_motion_ufo50.mov)](https://www.shadertoy.com/embed/MlyyzK?gui=true&t=10&paused=true&muted=false)|![Climbin'](img/PICO-8_41.gif) ![Editin'](img/PICO-8_26.gif)|![Swingin'](img/PICO-8_21.gif)|
-|C++/GLSL|Pico8|Pico8|
-|wanted to learn about procedural generation and raymarching.  planet generation algorithm is my interpretation of an algorithm from star control 2.|Had a cool level editor by @stevelavietes| |
+|C++/GLSL/ISPC|Pico8|Pico8|
+|wanted to learn about procedural generation and raymarching.  planet generation algorithm is my interpretation of an algorithm from star control 2.  All of the generation was done offline in C++ and then ported to ISPC.  The rendering is entirely in a GLSL shader.|Had a cool level editor by @stevelavietes| |
