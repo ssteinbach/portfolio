@@ -15,6 +15,7 @@ Engines mentioned:
 
 |----------|
 |[![BEAT THE GOBBLINS](https://img.itch.zone/aW1hZ2UvNTY0MTkyLzI5NjMzMjUuZ2lm/794x1000/JhQtF5.gif)](https://stephan-gfx.itch.io/beat-the-gobblins)|
+|[Post Mortem](https://docs.google.com/document/d/1Z8iBf_VUf_26AmKrWBJ9THso-UCqWl5NsIOpnSF9-1s/edit#)|
 |2/15/2020|
 |Started as a jam game w/ Ed Luong, features awesome music by Marlena Fecho.|
 |[Source](https://github.com/morgan3d/quadplay/tree/master/games/beat_the_gobblins)|
@@ -23,7 +24,8 @@ Engines mentioned:
 
 |-----------------|
 |[![Across The Lake](https://img.itch.zone/aW1hZ2UvNjE2MDMwLzMyOTA3NTQuZ2lm/347x500/O%2F6yeI.gif)](https://stephan-gfx.itch.io/across-the-lake)|
-|[Post Mortem](https://docs.google.com/document/d/1Z8iBf_VUf_26AmKrWBJ9THso-UCqWl5NsIOpnSF9-1s/edit#)|[Post Mortem](https://stephan-gfx.itch.io/across-the-lake/devlog/141410/ludum-dare-46-post-mortem-across-the-lake)|
+|-----------------|
+|[Post Mortem](https://stephan-gfx.itch.io/across-the-lake/devlog/141410/ludum-dare-46-post-mortem-across-the-lake)|
 |4/20/2020|
 |Ludum Dare game jam game for LD46, finished 27th overall and 12th in mood (out of 3576 submissions).  Theme was "Keep it Alive"| 
 |[Source](https://github.com/morgan3d/quadplay/tree/master/games/across_the_lake)|
