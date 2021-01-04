@@ -47,12 +47,7 @@ Thanks for coming to visit.
 
 |[![Dead Man's Slope](img/mogulneer_18.gif)](https://www.lexaloffle.com/bbs/?tid=30307)|
 |--------|
-|Started while snowed in one winter and ended up with a driving model inspired more by mario kart and some skiing physics.  Fun things:
-- My first experiment with authored levels, which were described using a simple DSL in lua. 
-- The other thing I think is worked well in this is that the player avatar is a mix of sprites (the body) and procedural graphics (the skis).
-- Because the skis are rotating smoothly it makes the whole character feel better than the simple 8 frames or so of actual sprite there is.
-- It was also fun tuning the camera and particle effects to sell the speed and turns.
-- The course boundaries are drawn procedurally using splines|
+|Started while snowed in one winter and ended up with a driving model inspired more by mario kart and some skiing physics.  Fun things: <ul><li>My first experiment with authored levels, which were described using a simple DSL in lua.</li><li>the player avatar is a mix of sprites (the body) and procedural graphics (the skis). Because the skis are rotating smoothly it makes the whole character feel better than the simple 8 frames or so of actual sprite there is.</li><li>It was also fun tuning the camera and particle effects to sell the speed and turns.</li><li>The course boundaries are drawn procedurally using splines</li>|
 |[Source](https://github.com/stevelavietes/pico8carts/blob/master/dead_mans_slope.p8)|
 
 ## Pico8
