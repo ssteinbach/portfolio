@@ -75,18 +75,18 @@ Before shifting over to quadplay for personal projects, I really fell in love wi
 ### Pico8 Basecode
 The basecode for all the projects that Steve Lavietes and I collaborated on in pico8: 
 
-    * [Source](https://github.com/ssteinbach/pico8carts/blob/master/stdlib.p8)
+* [Source](https://github.com/ssteinbach/pico8carts/blob/master/stdlib.p8)
 
 Designed to be stripped down at the end of a project to recover tokens.
 
 Includes:
 
-    * Menu system
-    * Debug tools
-    * Object/Transform hierarchy (+coordinate systems)
-    * Morgan McGuire's Pico8 particle system library
-    * Camera system
-    * Mouse input
+* Menu system
+* Debug tools
+* Object/Transform hierarchy (+coordinate systems)
+* Morgan McGuire's Pico8 particle system library
+* Camera system
+* Mouse input
 
 ### Library Demos
 
@@ -128,6 +128,6 @@ Hodgepodge of unfinished prototypes from projects over the years.
 
 # Engines Used
 
-* Quadplay (by @casualeffects): [![quadplay✜](https://morgan3d.github.io/quadplay/console/logo-116x20.png)](https://github.com/morgan3d/quadplay)
-* Pico8: [![Pico8](https://www.lexaloffle.com/gfx/lexaloffle-pico8.png)](http://www.lexaloffle.com/pico-8.php)
+- Quadplay (by @casualeffects): [![quadplay✜](https://morgan3d.github.io/quadplay/console/logo-116x20.png)](https://github.com/morgan3d/quadplay)
+- Pico8: [![Pico8](https://www.lexaloffle.com/gfx/lexaloffle-pico8.png)](http://www.lexaloffle.com/pico-8.php)
 
