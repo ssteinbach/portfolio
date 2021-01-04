@@ -22,24 +22,24 @@ Thanks for coming to visit.
 
 |[![Across The Lake](https://img.itch.zone/aW1hZ2UvNjE2MDMwLzMyOTA3NTQuZ2lm/347x500/O%2F6yeI.gif)](https://stephan-gfx.itch.io/across-the-lake)|
 |-----------------|
-|[Post Mortem](https://stephan-gfx.itch.io/across-the-lake/devlog/141410/ludum-dare-46-post-mortem-across-the-lake)|
 |Ludum Dare game jam game for LD46, finished 27th overall and 12th in mood (out of 3576 submissions).  Theme was "Keep it Alive".| 
+|[Post Mortem](https://stephan-gfx.itch.io/across-the-lake/devlog/141410/ludum-dare-46-post-mortem-across-the-lake)|
 |[Source](https://github.com/morgan3d/quadplay/tree/master/games/across_the_lake)|
 |[Jam Page](https://ldjam.com/events/ludum-dare/46/across-the-lake)|
 
 ### 4/7/2020: [Pico De Pon](https://www.lexaloffle.com/bbs/?tid=37280)
 
-|[![Pico De Pon](https://www.lexaloffle.com/bbs/thumbs/pico8_picodepon-2.png)](https://www.lexaloffle.com/bbs/?tid=37280)|
+|[![Pico De Pon](https://www.lexaloffle.com/bbs/thumbs/pico8_picodepon-2.png)](https://www.lexaloffle.com/bbs/?tid=37280) ![Gameplay](img/picodepon_10.gif)|
 |---------|
-|Steve and I returned to Tetris Attack after having worked on a megadrive version, as an homage to the awesome pico8 community.  Features music by tesselode and art from a variety of great games from the pico8 community that inspired us!|
+|Steve and I returned to Tetris Attack after having worked on a megadrive version, as an homage to the awesome pico8 community.  Features music by tesselode and art from a variety of great games from the pico8 community that inspired us!  See the pico8 bbs page for the full list of thanks.|
 |[Source](https://github.com/stevelavietes/pico8carts/blob/master/picodepon.p8)|
 
 ### 2/15/2020: [Beat the Gobblins](https://stephan-gfx.itch.io/beat-the-gobblins)
 
 |[![BEAT THE GOBBLINS](https://img.itch.zone/aW1hZ2UvNTY0MTkyLzI5NjMzMjUuZ2lm/794x1000/JhQtF5.gif)](https://stephan-gfx.itch.io/beat-the-gobblins)|
 |-------------------------------|
-|[Post Mortem](https://docs.google.com/document/d/1Z8iBf_VUf_26AmKrWBJ9THso-UCqWl5NsIOpnSF9-1s/edit#)|
 |Started as a jam game w/ Ed Luong, features awesome music by Marlena Fecho.|
+|[Post Mortem](https://docs.google.com/document/d/1Z8iBf_VUf_26AmKrWBJ9THso-UCqWl5NsIOpnSF9-1s/edit#)|
 |[Source](https://github.com/morgan3d/quadplay/tree/master/games/beat_the_gobblins)|
 
 ### 11/29/2017: [Dead Man's Slope](https://www.lexaloffle.com/bbs/?pid=46604)
