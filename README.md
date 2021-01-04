@@ -16,8 +16,6 @@ Thanks for coming to visit.
 
 # Completed Games
 
-*Click the thumbnail to play online!*
-
 ## Recent Projects
 
 ### 4/20/2020: [Across The Lake](https://stephan-gfx.itch.io/across-the-lake)
@@ -28,7 +26,7 @@ Thanks for coming to visit.
 |Ludum Dare game jam game for LD46, finished 27th overall and 12th in mood (out of 3576 submissions).  Theme was "Keep it Alive"| 
 |[Source](https://github.com/morgan3d/quadplay/tree/master/games/across_the_lake)|
 
-### 4/7/2020: Pico De Pon
+### 4/7/2020: [Pico De Pon](https://www.lexaloffle.com/bbs/?tid=37280)
 
 |[![Pico De Pon](https://www.lexaloffle.com/bbs/thumbs/pico8_picodepon-2.png)](https://www.lexaloffle.com/bbs/?tid=37280)|
 |---------|
@@ -43,7 +41,7 @@ Thanks for coming to visit.
 |Started as a jam game w/ Ed Luong, features awesome music by Marlena Fecho.|
 |[Source](https://github.com/morgan3d/quadplay/tree/master/games/beat_the_gobblins)|
 
-### 11/29/2017: Dead Man's Slope
+### 11/29/2017: [Dead Man's Slope](https://www.lexaloffle.com/bbs/?pid=46604)
 
 |[![Dead Man's Slope](img/mogulneer_18.gif)](https://www.lexaloffle.com/bbs/?tid=30307)|
 |--------|
