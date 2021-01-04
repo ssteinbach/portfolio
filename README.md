@@ -45,7 +45,7 @@ Thanks for coming to visit.
 
 ### 11/29/2017: Dead Man's Slope
 
-|[![Dead Man's Slope](https://www.lexaloffle.com/bbs/thumbs/pico46800.png)](https://www.lexaloffle.com/bbs/?tid=30307)|
+|[![Dead Man's Slope](img/mogulneer_18.gif)](https://www.lexaloffle.com/bbs/?tid=30307)|
 |--------|
 |Started while snowed in one winter and ended up with a driving model inspired more by mario kart.  My first experiment with authored levels.|
 |[Source](https://github.com/stevelavietes/pico8carts/blob/master/dead_mans_slope.p8)|
