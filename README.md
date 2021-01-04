@@ -120,11 +120,11 @@ Hodgepodge of unfinished prototypes from projects over the years.
 |C++/GLSL/ISPC|Pico8|Pico8|
 |wanted to learn about procedural generation and raymarching.  planet generation algorithm is my interpretation of an algorithm from star control 2.  All of the generation was done offline in C++ and then ported to ISPC.  The rendering is entirely in a GLSL shader.|Had a cool level editor by @stevelavietes| |
 
-|[Word Game](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/word_game)|A Dark Drive|
+|[Word Game](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/word_game)|[A Dark Drive](https://stephan-gfx.itch.io/a-dark-drive)|
 |-------|-----|
 |![Word Game](img/word_game_2020-09-12_16h26.gif)|![A Dark Drive](img/gmtk2020_2020-07-12_09h12.gif)|
 |Quadplay|Quadplay|
-|This was a test for making a game entirely out of words, looking at how easy it would be for me to add content to a game with such minimal aesthetics.  Links: [Post Mortem](https://docs.google.com/document/d/1pkV4FL_167ArQkXBkH9Njl_4P4Eq3-UYK7MJegNddvA/edit?usp=sharing), [Source](https://github.com/morgan3d/quadplay/tree/master/examples/word_game)|GMTK2020 Jam game, completed with Ed Luong and Nick Porcino.  Really a mood and feel test.  I did the intro, menus and audio.  [Post Mortem](https://docs.google.com/document/d/1dtOKkXylYiF1GGeCd8CCK5vLSxul7kusU9kGm41_bHc/edit?usp=sharing), [Source](https://github.com/morgan3d/quadplay/tree/master/examples/a_dark_drive), [Play Online](https://stephan-gfx.itch.io/a-dark-drive) |
+|This was a test for making a game entirely out of words, looking at how easy it would be for me to add content to a game with such minimal aesthetics.  Links: [Post Mortem](https://docs.google.com/document/d/1pkV4FL_167ArQkXBkH9Njl_4P4Eq3-UYK7MJegNddvA/edit?usp=sharing), [Source](https://github.com/morgan3d/quadplay/tree/master/examples/word_game), [Play Online](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/word_game)|GMTK2020 Jam game, completed with Ed Luong and Nick Porcino.  Really a mood and feel test.  I did the intro, menus and audio.  [Post Mortem](https://docs.google.com/document/d/1dtOKkXylYiF1GGeCd8CCK5vLSxul7kusU9kGm41_bHc/edit?usp=sharing), [Source](https://github.com/morgan3d/quadplay/tree/master/examples/a_dark_drive), [Play Online](https://stephan-gfx.itch.io/a-dark-drive) |
 
 # Engines Used
 
