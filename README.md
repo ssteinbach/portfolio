@@ -1,3 +1,5 @@
+#
+
 # Completed Games
 
 *Click the thumbnail to play online!*
@@ -57,7 +59,7 @@ These quadplay libraries help me get prototypes and jam games up and running qui
 |[Acceleration Demo](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/accel_demo)|[Bounce Demo](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/sproing)|[Camera Shake](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/camera_shake)|
 |----|----|----|
 |![Acceleration Demo](img/Acceleration_Library_Demo_2020-08-19_21h03.gif)|![Bounce Demo](img/Squash_and_Stretch_Example_2020-12-06_20h12.gif)|![Camera Shake](img/camera_shake_2020-07-05_14h21.gif)|
-|While struggling with Beat the Gobblins, I stumbled across a GMTK video about [celeste's game feel](https://www.youtube.com/watch?v=yorTG9at90g&vl=en), and after seeing the graphs I  realized I could model those accelerations really simply using an ADSR model inspired by Steve Swink's [Game Feel](http://www.game-feel.com) book.  This test proved to be super useful, and I've cleaned it up into a very simple module I've since used on a number of projects.  Its driven off just three parameters: acceleration time from 0 to full speed (in frames), deceleration time from full speed to 0 under no acceleration (in frames) and maximum speed (in px/f).  You can see the table [here](https://github.com/morgan3d/quadplay/blob/2bc3f95cc5ce6960b6071d82b494b65428fb9ffd/examples/accel_demo/accel_lib.pyxl#L90) and further explanation [here](https://github.com/morgan3d/quadplay/blob/2bc3f95cc5ce6960b6071d82b494b65428fb9ffd/examples/accel_demo/accel_lib.pyxl#L1).|The bounce demo is based on @fourbitfriday's bounce demo from [a stream](https://www.twitch.tv/videos/576377070).  Again, it is built into an easy to integrate library and features a similar "profile" system as the acceleration library.|Every game needs camera shake!  This is a library for doing a simple nuclear throne/[vlambeer](https://www.youtube.com/watch?v=AJdEqssNZ-U) inspired screen shake that restores|
+|While struggling with Beat the Gobblins, I stumbled across a GMTK video about [celeste's game feel](https://www.youtube.com/watch?v=yorTG9at90g&vl=en), and after seeing the graphs I  realized I could model those accelerations really simply using an ADSR model inspired by Steve Swink's [Game Feel](http://www.game-feel.com) book.  This test proved to be super useful, and I've cleaned it up into a very simple module I've since used on a number of projects.  Its driven off just three parameters: acceleration time from 0 to full speed (in frames), deceleration time from full speed to 0 under no acceleration (in frames) and maximum speed (in px/f).  You can see the table [here](https://github.com/morgan3d/quadplay/blob/2bc3f95cc5ce6960b6071d82b494b65428fb9ffd/examples/accel_demo/accel_lib.pyxl#L90) and further explanation [here](https://github.com/morgan3d/quadplay/blob/2bc3f95cc5ce6960b6071d82b494b65428fb9ffd/examples/accel_demo/accel_lib.pyxl#L1).|The bounce demo is based on @fourbitfriday's bounce demo from [a stream](https://www.twitch.tv/videos/576377070).  Again, it is built into an easy to integrate library and features a similar "profile" system as the acceleration library.|Every game needs camera shake!  This is a library for doing a simple nuclear throne/[vlambeer](https://www.youtube.com/watch?v=AJdEqssNZ-U) inspired 2d screen shake.|
 | [Source](https://github.com/morgan3d/quadplay/tree/master/examples/accel_demo)|[Source](https://github.com/morgan3d/quadplay/tree/master/examples/sproing)|[Source](https://github.com/morgan3d/quadplay/tree/master/examples/camera_shake)|
 
 |[Transition/Sequence](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/sequence_demo)|
@@ -72,11 +74,13 @@ Before shifting over to quadplay for personal projects, I really fell in love wi
 
 ### Pico8 Basecode
 The basecode for all the projects that Steve Lavietes and I collaborated on in pico8: 
+
     * [Source](https://github.com/ssteinbach/pico8carts/blob/master/stdlib.p8)
 
 Designed to be stripped down at the end of a project to recover tokens.
 
 Includes:
+
     * Menu system
     * Debug tools
     * Object/Transform hierarchy (+coordinate systems)
@@ -116,11 +120,11 @@ Hodgepodge of unfinished prototypes from projects over the years.
 |C++/GLSL/ISPC|Pico8|Pico8|
 |wanted to learn about procedural generation and raymarching.  planet generation algorithm is my interpretation of an algorithm from star control 2.  All of the generation was done offline in C++ and then ported to ISPC.  The rendering is entirely in a GLSL shader.|Had a cool level editor by @stevelavietes| |
 
-|[Word Game](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/word_game)|
-|-------|
-|![Word Game](img/word_game_2020-09-12_16h26.gif)|
-|Quadplay|
-|This was a test for making a game entirely out of words, looking at how easy it would be for me to add content to a game with such minimal aesthetics.  Links: [Post Mortem](https://docs.google.com/document/d/1pkV4FL_167ArQkXBkH9Njl_4P4Eq3-UYK7MJegNddvA/edit?usp=sharing), [Source](https://github.com/morgan3d/quadplay/tree/master/examples/word_game)|
+|[Word Game](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/word_game)|A Dark Drive|
+|-------|-----|
+|![Word Game](img/word_game_2020-09-12_16h26.gif)|![A Dark Drive](img/gmtk2020_2020-07-12_09h12.gif)|
+|Quadplay|Quadplay|
+|This was a test for making a game entirely out of words, looking at how easy it would be for me to add content to a game with such minimal aesthetics.  Links: [Post Mortem](https://docs.google.com/document/d/1pkV4FL_167ArQkXBkH9Njl_4P4Eq3-UYK7MJegNddvA/edit?usp=sharing), [Source](https://github.com/morgan3d/quadplay/tree/master/examples/word_game)|GMTK2020 Jam game, completed with Ed Luong and Nick Porcino.  Really a mood and feel test.  I did the intro, menus and audio.  [Post Mortem](https://docs.google.com/document/d/1dtOKkXylYiF1GGeCd8CCK5vLSxul7kusU9kGm41_bHc/edit?usp=sharing), [Source](https://github.com/morgan3d/quadplay/tree/master/examples/a_dark_drive), [Play Online](https://stephan-gfx.itch.io/a-dark-drive) |
 
 # Engines Used
 
