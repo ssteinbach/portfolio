@@ -1,10 +1,3 @@
-# Portfolio
-Online projects by Stephan Steinbach. Thanks for coming by!
-
-Engines mentioned:
-* Quadplay (by @casualeffects): [![quadplay✜](https://morgan3d.github.io/quadplay/console/logo-116x20.png)](https://github.com/morgan3d/quadplay)
-* Pico8: [![Pico8](https://www.lexaloffle.com/gfx/lexaloffle-pico8.png)](http://www.lexaloffle.com/pico-8.php)
-
 # Completed Games
 
 *Click the thumbnail to play online!*
@@ -89,4 +82,9 @@ co-developed basecode.
 |![Word Game](img/word_game_2020-09-12_16h26.gif)|
 |Quadplay|
 |This was a test for making a game entirely out of words, looking at how easy it would be for me to add content to a game with such minimal aesthetics.  Links: [Post Mortem](https://docs.google.com/document/d/1pkV4FL_167ArQkXBkH9Njl_4P4Eq3-UYK7MJegNddvA/edit?usp=sharing), [Source](https://github.com/morgan3d/quadplay/tree/master/examples/word_game)|
+
+# Engines Used
+
+* Quadplay (by @casualeffects): [![quadplay✜](https://morgan3d.github.io/quadplay/console/logo-116x20.png)](https://github.com/morgan3d/quadplay)
+* Pico8: [![Pico8](https://www.lexaloffle.com/gfx/lexaloffle-pico8.png)](http://www.lexaloffle.com/pico-8.php)
 
