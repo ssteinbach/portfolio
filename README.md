@@ -23,8 +23,9 @@ Thanks for coming to visit.
 |[![Across The Lake](https://img.itch.zone/aW1hZ2UvNjE2MDMwLzMyOTA3NTQuZ2lm/347x500/O%2F6yeI.gif)](https://stephan-gfx.itch.io/across-the-lake)|
 |-----------------|
 |[Post Mortem](https://stephan-gfx.itch.io/across-the-lake/devlog/141410/ludum-dare-46-post-mortem-across-the-lake)|
-|Ludum Dare game jam game for LD46, finished 27th overall and 12th in mood (out of 3576 submissions).  Theme was "Keep it Alive"| 
+|Ludum Dare game jam game for LD46, finished 27th overall and 12th in mood (out of 3576 submissions).  Theme was "Keep it Alive".| 
 |[Source](https://github.com/morgan3d/quadplay/tree/master/games/across_the_lake)|
+|[Jam Page](https://ldjam.com/events/ludum-dare/46/across-the-lake)|
 
 ### 4/7/2020: [Pico De Pon](https://www.lexaloffle.com/bbs/?tid=37280)
 
