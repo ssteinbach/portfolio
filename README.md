@@ -1,5 +1,19 @@
 Thanks for coming to visit.
 
+# Table of Contents
+
+- [Completed Games](#completed-games)
+    - [Recent Projects](#recent-projects)
+    - [Pico8](#pico8)
+- [Smaller Projects](#smaller-projects)
+    - [Libraries (Quadplay)](#libraries-quadplay)
+    - [Pico8](#pico8-1)
+        - [Basecode](#pico8-basecode)
+        - [Library Demos](#library-demos)
+        - [Tweet Carts](#tweet-carts)
+- [Unfinished Prototypes](#unfinished-prototypes)
+- [Engines Used](#engines-used)
+
 # Completed Games
 
 *Click the thumbnail to play online!*
