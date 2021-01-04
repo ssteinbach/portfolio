@@ -1,5 +1,3 @@
-#
-
 # Completed Games
 
 *Click the thumbnail to play online!*
