@@ -123,7 +123,7 @@ Hodgepodge of unfinished prototypes from projects over the years.
 
 |Space flight FX test|"Reach"|"Into the Pitch"|
 |----|----|----|
-|![Flying Around](img/PICO-8_31.gif) ![Shootin](img/PICO-8_38.gif)|![Map Movin'](img/reach_production_cost.gif)|![Movin' and Turnin'](img/pitch.gif)|
+|![Flying Around](img/PICO-8_31.gif) ![Shootin](img/PICO-8_38.gif)|![Map Movin'](img/reach_production_cost.gif) ![Zooming and Menuing](img/reach-may_19_2020_08_59_pm.gif)|![Movin' and Turnin'](img/pitch.gif)|
 |Pico8|Quadplay|Quadplay
 | |4x-ish|Originally for 7drl|
 
