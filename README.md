@@ -1,4 +1,4 @@
-Thanks for coming to visit.
+Hi! Thanks for coming to visit, hope you're doing well!
 
 # Table of Contents
 
