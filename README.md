@@ -1,5 +1,7 @@
 Hi! Thanks for coming to visit, hope you're doing well!
 
+*Most thumbnails are links to playable in the browser versions of the projects!*
+
 # Table of Contents
 
 - [Completed Games](#completed-games)
