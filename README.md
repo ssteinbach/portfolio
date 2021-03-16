@@ -24,7 +24,7 @@ Hi! Thanks for coming to visit, hope you're doing well!
 
 |[![Rescue Roguelike](https://img.itch.zone/aW1hZ2UvOTU3MjU2LzU0Mjg5ODIucG5n/347x500/lvEHXN.png)](https://stephan-gfx.itch.io/rescue-roguelike)|
 |-----------------|
-|A tactical roguelike 7DRL game executed in a week with @mrawde, [Ian Patrick](https://www.instagram.com/ian.t.patrick/) and @morgan3d.   We wanted to do a jam game but one that wouldn't be as stressful as a weekend game, and one that would allow some preproduction to frontload the conversations about _what_ to make.|
+|A tactical roguelike 7DRL game executed in a week with @mrawde, [Ian Patrick](https://www.instagram.com/ian.t.patrick/) and @morgan3d.|
 |[Jam Page](https://itch.io/jam/7drl-challenge-2021/rate/957256)|
 
 ### 4/20/2020: [Across The Lake](https://stephan-gfx.itch.io/across-the-lake)
