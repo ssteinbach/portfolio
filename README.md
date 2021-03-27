@@ -25,6 +25,7 @@ Hi! Thanks for coming to visit, hope you're doing well!
 |[![Rescue Roguelike](https://img.itch.zone/aW1hZ2UvOTU3MjU2LzU0Mjg5ODIucG5n/347x500/lvEHXN.png)](https://stephan-gfx.itch.io/rescue-roguelike)|
 |-----------------|
 |A tactical roguelike 7DRL game executed in a week with [Ed Luong](https://github.com/mrawde), [Ian Patrick](https://www.instagram.com/ian.t.patrick/) and [Morgan McGuire](https://github.com/morgan3d).|
+|[Post Mortem](https://docs.google.com/document/d/11patCRUp5gsgJVc7ZYi-QyltBxP0aE0BF6ax9syI99I)|
 |[Jam Page](https://itch.io/jam/7drl-challenge-2021/rate/957256)|
 
 ### 4/20/2020: [Across The Lake](https://stephan-gfx.itch.io/across-the-lake)
@@ -48,7 +49,7 @@ Hi! Thanks for coming to visit, hope you're doing well!
 |[![BEAT THE GOBBLINS](https://img.itch.zone/aW1hZ2UvNTY0MTkyLzI5NjMzMjUuZ2lm/794x1000/JhQtF5.gif)](https://stephan-gfx.itch.io/beat-the-gobblins)|
 |-------------------------------|
 |Started as a jam game w/ Ed Luong, features awesome music by Marlena Fecho.|
-|[Post Mortem](https://docs.google.com/document/d/1Z8iBf_VUf_26AmKrWBJ9THso-UCqWl5NsIOpnSF9-1s/edit#)|
+|[Post Mortem](https://docs.google.com/document/d/1Z8iBf_VUf_26AmKrWBJ9THso-UCqWl5NsIOpnSF9-1s)|
 |[Source](https://github.com/morgan3d/quadplay/tree/master/games/beat_the_gobblins)|
 
 ### 11/29/2017: [Dead Man's Slope](https://www.lexaloffle.com/bbs/?pid=46604)
