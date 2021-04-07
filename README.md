@@ -27,6 +27,7 @@ Hi! Thanks for coming to visit, hope you're doing well!
 |A tactical roguelike 7DRL game executed in a week with [Ed Luong](https://github.com/mrawde), [Ian Patrick](https://www.instagram.com/ian.t.patrick/) and [Morgan McGuire](https://github.com/morgan3d).|
 |[Post Mortem](https://docs.google.com/document/d/11patCRUp5gsgJVc7ZYi-QyltBxP0aE0BF6ax9syI99I)|
 |[Jam Page](https://itch.io/jam/7drl-challenge-2021/rate/957256)|
+|[Research Note: Enemy design in Into the Breach's first area](https://gist.github.com/ssteinbach/8780b0112a58a19f8154ae2061bb33fc)|
 
 ### 4/20/2020: [Across The Lake](https://stephan-gfx.itch.io/across-the-lake)
 
