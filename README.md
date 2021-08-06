@@ -20,7 +20,7 @@ Hi! Thanks for coming to visit, hope you're doing well!
 
 ## Recent Projects
 
-### 8/3/2021: [Ecto Scan]
+### 8/3/2021: Ecto Scan
 
 |![Ecto Scan](img/ecto.gif)|
 |-----------------|
