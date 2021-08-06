@@ -20,6 +20,13 @@ Hi! Thanks for coming to visit, hope you're doing well!
 
 ## Recent Projects
 
+### 8/3/2021: [Ecto Scan]
+
+|![Ecto Scan](img/ecto.gif)|
+|-----------------|
+|A game built for an episode of a TTRPG campaign I was GMming in the ghostbusters RPG system.|
+|[Post Mortem](https://docs.google.com/document/d/1mwWA4pgRnVl82A_EFPgTwX6ckVDy-Tyd_Dgy2pjZjU8/edit?usp=sharing)|
+
 ### 3/14/2021: [Rescue Roguelike](https://stephan-gfx.itch.io/rescue-roguelike)
 
 |[![Rescue Roguelike](https://img.itch.zone/aW1hZ2UvOTU3MjU2LzU0Mjg5ODIucG5n/347x500/lvEHXN.png)](https://stephan-gfx.itch.io/rescue-roguelike)|
