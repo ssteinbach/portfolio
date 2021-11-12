@@ -24,7 +24,7 @@ Hi! Thanks for coming to visit, hope you're doing well!
 
 |![Ecto Scan](img/ecto.gif)|
 |-----------------|
-|A game built for an episode of a TTRPG campaign I was GMming in the ghostbusters RPG system.|
+|A game built for an episode of a TTRPG campaign I was GMming in the ghostbusters RPG system.  A retro-style four player game in which the players collaborate to find the source of a strange signal in 1985 san francisco. |
 |[Post Mortem](https://docs.google.com/document/d/1mwWA4pgRnVl82A_EFPgTwX6ckVDy-Tyd_Dgy2pjZjU8/edit?usp=sharing)|
 
 ### 3/14/2021: [Rescue Roguelike](https://stephan-gfx.itch.io/rescue-roguelike)
