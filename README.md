@@ -157,11 +157,11 @@ Hodgepodge of unfinished prototypes from projects over the years.
 |Quadplay|Quadplay|
 |This was a test for making a game entirely out of words, looking at how easy it would be for me to add content to a game with such minimal aesthetics.  Links: [Post Mortem](https://docs.google.com/document/d/1pkV4FL_167ArQkXBkH9Njl_4P4Eq3-UYK7MJegNddvA/edit?usp=sharing), [Source](https://github.com/morgan3d/quadplay/tree/master/examples/word_game), [Play Online](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/word_game)|GMTK2020 Jam game, completed with Ed Luong and Nick Porcino.  Really a mood and feel test.  I did the intro, menus and audio.  [Post Mortem](https://docs.google.com/document/d/1dtOKkXylYiF1GGeCd8CCK5vLSxul7kusU9kGm41_bHc/edit?usp=sharing), [Source](https://github.com/morgan3d/quadplay/tree/master/examples/a_dark_drive), [Play Online](https://stephan-gfx.itch.io/a-dark-drive) |
 
-|Space Train|
+|Playdate Prototype|
 |-----------|
 |![Space Train](img/space_train.gif)|
 |Quadplay|
-|A prototype for a playdate game, where you used the crank to do gestures to cast spells and enemies came in from the right.|
+|A prototype for a playdate game, where you used the crank to do gestures to cast spells, trying to defend the cars of a train from enemies approaching from the right.|
 
 # Engines Used
 
