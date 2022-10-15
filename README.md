@@ -168,4 +168,3 @@ Hodgepodge of unfinished prototypes from projects over the years.
 
 - Quadplay (by @casualeffects): [![quadplay✜](https://morgan3d.github.io/quadplay/console/logo-116x20.png)](https://github.com/morgan3d/quadplay)
 - Pico8: [![Pico8](https://www.lexaloffle.com/gfx/lexaloffle-pico8.png)](http://www.lexaloffle.com/pico-8.php)
-
