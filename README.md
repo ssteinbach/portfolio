@@ -159,9 +159,10 @@ Hodgepodge of unfinished prototypes from projects over the years.
 
 |Playdate Prototype|Gravity Prototype|
 |-----------|-------------|
-|![Space Train](img/space_train.gif)|![Gravity Prototype](img/gravity_game.gif)|
+|![Space Train](img/space_train.gif)|![Gravity Prototype](img/gravity_game.gif) ![Throwing Bats](img/gravity_game_2.gif)|
 |Quadplay|Quadplay|
 |A prototype for a playdate game, where you used the crank to do gestures to cast spells, trying to defend the cars of a train from enemies approaching from the right.|Prototype built around some pieces from Beat the Wizzard for an action game with a gravity throwing mechanic.|
+|2022|2021,2022|
 
 # Engines Used
 
