@@ -20,6 +20,13 @@ Hi! Thanks for coming to visit, hope you're doing well!
 
 ## Recent Projects
 
+### 11/18/2022: PlayDaPon
+
+|[![PlayDaPon](img/pdp_console.png)](https://lonelystarsoftware.itch.io/playdapon)|
+|-----------------|
+|"The classic 16-bit action puzzle game brought to your playdate in vivid 1-bit color"|
+|[Announcement Devlog](https://lonelystarsoftware.itch.io/playdapon/devlog/453491/introducing-playdapon)|
+
 ### 8/3/2021: Ecto Scan
 
 |![Ecto Scan](img/ecto.gif)|
