@@ -1,3 +1,5 @@
+# Portfolio
+
 Hi! Thanks for coming to visit, hope you're doing well!
 
 *Most thumbnails are links to playable in the browser versions of the projects!*
@@ -24,7 +26,8 @@ Hi! Thanks for coming to visit, hope you're doing well!
 
 |[![PlayDaPon](img/pdp_console.png)](https://lonelystarsoftware.itch.io/playdapon)|
 |-----------------|
-|"The classic 16-bit action puzzle game brought to your playdate in vivid 1-bit color".  Completed with Steve Lavietes.  See the [Announcement Devlog](https://lonelystarsoftware.itch.io/playdapon/devlog/453491/introducing-playdapon) for a write up on how we took the codebase from a genesis/megadrive version of the game to playdate.|
+|*"The classic 16-bit action puzzle game brought to your playdate in vivid 1-bit color"*.  Completed with Steve Lavietes.  See the [Announcement Devlog](https://lonelystarsoftware.itch.io/playdapon/devlog/453491/introducing-playdapon) for a write up on how we took the codebase from a genesis/megadrive version of the game to playdate.|
+|[Homepage](https://lonelystarsoftware.itch.io/playdapon)|
 |[Announcement Devlog](https://lonelystarsoftware.itch.io/playdapon/devlog/453491/introducing-playdapon)|
 
 ### 8/3/2021: Ecto Scan
@@ -47,7 +50,7 @@ Hi! Thanks for coming to visit, hope you're doing well!
 
 |[![Across The Lake](https://img.itch.zone/aW1hZ2UvNjE2MDMwLzMyOTA3NTQuZ2lm/347x500/O%2F6yeI.gif)](https://stephan-gfx.itch.io/across-the-lake)|
 |-----------------|
-|Ludum Dare game jam game for LD46, finished 27th overall and 12th in mood (out of 3576 submissions).  Theme was "Keep it Alive".| 
+|Ludum Dare game jam game for LD46, finished 27th overall and 12th in mood (out of 3576 submissions).  Theme was "Keep it Alive".|
 |[Post Mortem](https://stephan-gfx.itch.io/across-the-lake/devlog/141410/ludum-dare-46-post-mortem-across-the-lake)|
 |[Source](https://github.com/morgan3d/quadplay/tree/master/games/across_the_lake)|
 |[Jam Page](https://ldjam.com/events/ludum-dare/46/across-the-lake)|
@@ -106,25 +109,25 @@ These quadplay libraries help me get prototypes and jam games up and running qui
 |A simple turn transition library that also serves as a nice demo for using quadplay's `sequence` feature.|
 |[Source](https://github.com/morgan3d/quadplay/tree/master/examples/sequence_demo)|
 
-## Pico8
+## Smaller Pico8 Projects/Libraries/Demos
 
 Before shifting over to quadplay for personal projects, I really fell in love with pico8.
 
 ### Pico8 Basecode
-The basecode for all the projects that Steve Lavietes and I collaborated on in pico8: 
+The basecode for all the projects that Steve Lavietes and I collaborated on in pico8:
 
-* [Source](https://github.com/ssteinbach/pico8carts/blob/master/stdlib.p8)
+- [Source](https://github.com/ssteinbach/pico8carts/blob/master/stdlib.p8)
 
 Designed to be stripped down at the end of a project to recover tokens.
 
 Includes:
 
-* Menu system
-* Debug tools
-* Object/Transform hierarchy (+coordinate systems)
-* Morgan McGuire's Pico8 particle system library
-* Camera system
-* Mouse input
+- Menu system
+- Debug tools
+- Object/Transform hierarchy (+coordinate systems)
+- Morgan McGuire's Pico8 particle system library
+- Camera system
+- Mouse input
 
 ### Library Demos
 
