@@ -26,8 +26,8 @@ Hi! Thanks for coming to visit, hope you're doing well!
 
 |[![PlayDaPon](img/pdp_console.png)](https://lonelystarsoftware.itch.io/playdapon)|
 |-----------------|
-|*"The classic 16-bit action puzzle game brought to your playdate in vivid 1-bit color"*.  Completed with Steve Lavietes.  See the [Announcement Devlog](https://lonelystarsoftware.itch.io/playdapon/devlog/453491/introducing-playdapon) for a write up on how we took the codebase from a genesis/megadrive version of the game to playdate.|
-|[Homepage](https://lonelystarsoftware.itch.io/playdapon)|
+|*"The classic 16-bit action puzzle game brought to your playdate in vivid 1-bit color"*.  Completed with Steve Lavietes.  See the [Announcement Devlog](https://lonelystarsoftware.itch.io/playdapon/devlog/453491/introducing-playdapon) for a write up on how we took the codebase from a genesis/megadrive version of the game to playdate.  Update:  Now available on the Playdate store!|
+|[Playdate Store](https://play.date/games/playdapon/)|
 |[Announcement Devlog](https://lonelystarsoftware.itch.io/playdapon/devlog/453491/introducing-playdapon)|
 
 ### 8/3/2021: Ecto Scan
