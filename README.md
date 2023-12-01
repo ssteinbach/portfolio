@@ -30,6 +30,12 @@ Hi! Thanks for coming to visit, hope you're doing well!
 |[Playdate Store](https://play.date/games/playdapon/)|
 |[Announcement Devlog](https://lonelystarsoftware.itch.io/playdapon/devlog/453491/introducing-playdapon)|
 
+### 10/26/2022: Procedurally animated eyeball creature
+
+|![Bezier Eye Creature](img/bezier_creature.gif)|
+|-----------------|
+|I spent some time in 2022 playing around with procedurally animated characters and little character tests that were lightly interactive, including some work building quick reference characters for work projects that could help animators understand how unusual creatures could move and feel by being more puppet like.  I made this creature around halloween time based on a neat quadratic bezier trick for doing cables.  Instead of cables, I used them to build legs which would move around based on your mouse input, using the springs to give them some secondary animation with bounce and weight.|
+
 ### 8/3/2021: Ecto Scan
 
 |![Ecto Scan](img/ecto.gif)|
