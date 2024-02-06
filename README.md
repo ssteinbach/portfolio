@@ -109,11 +109,11 @@ These quadplay libraries help me get prototypes and jam games up and running qui
 |While struggling with Beat the Gobblins, I stumbled across a GMTK video about [celeste's game feel](https://www.youtube.com/watch?v=yorTG9at90g&vl=en), and after seeing the graphs I  realized I could model those accelerations really simply using an ADSR model inspired by Steve Swink's [Game Feel](http://www.game-feel.com) book.  This test proved to be super useful, and I've cleaned it up into a very simple module I've since used on a number of projects.  Its driven off just three parameters: acceleration time from 0 to full speed (in frames), deceleration time from full speed to 0 under no acceleration (in frames) and maximum speed (in px/f).  You can see the table [here](https://github.com/morgan3d/quadplay/blob/2bc3f95cc5ce6960b6071d82b494b65428fb9ffd/examples/accel_demo/accel_lib.pyxl#L90) and further explanation [here](https://github.com/morgan3d/quadplay/blob/2bc3f95cc5ce6960b6071d82b494b65428fb9ffd/examples/accel_demo/accel_lib.pyxl#L1).|The bounce demo is based on @fourbitfriday's bounce demo from [a stream](https://www.twitch.tv/videos/576377070).  Again, it is built into an easy to integrate library and features a similar "profile" system as the acceleration library.|Every game needs camera shake!  This is a library for doing a simple nuclear throne/[vlambeer](https://www.youtube.com/watch?v=AJdEqssNZ-U) inspired 2d screen shake.|
 | [Source](https://github.com/morgan3d/quadplay/tree/master/examples/accel_demo)|[Source](https://github.com/morgan3d/quadplay/tree/master/examples/sproing)|[Source](https://github.com/morgan3d/quadplay/tree/master/examples/camera_shake)|
 
-|[Transition/Sequence](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/sequence_demo)|
-|-------|
-|![Transition/Sequence](img/Reach_2020-06-20_09h26.gif)|
-|A simple turn transition library that also serves as a nice demo for using quadplay's `sequence` feature.|
-|[Source](https://github.com/morgan3d/quadplay/tree/master/examples/sequence_demo)|
+|[Transition/Sequence](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/sequence_demo)|[Animation Timing Demo](https://morgan3d.github.io/quadplay/console/quadplay.html?game=examples/anim_entity_example)|
+|-------|-------|
+|![Transition/Sequence](img/Reach_2020-06-20_09h26.gif)|![Animation Entity Example](img/anim_entity_example.2024.gif)|
+|A simple turn transition library that also serves as a nice demo for using quadplay's `sequence` feature.|Library that reads timing from Aseprite json files.  This lets you use the aseprite feature to set frame durations to control timing in the animation tool.  Also handles one shot animations, callbacks on animation end, functions to call when the frame advances, etc.  Beat the Gobblins used this heavily.|
+|[Source](https://github.com/morgan3d/quadplay/tree/master/examples/sequence_demo)|[Source](https://github.com/morgan3d/quadplay/tree/master/examples/anim_entity_example)|
 
 ## Smaller Pico8 Projects/Libraries/Demos
 
