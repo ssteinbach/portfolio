@@ -31,7 +31,7 @@ Hi! Thanks for coming to visit, hope you're doing well!
 
 ### 11/18/2022 + 6/6/23: PlayDaPon
 
-|[![PlayDaPon](img/pdp_console.png)](https://lonelystarsoftware.itch.io/playdapon)|
+|[![PlayDaPon](img/pdp_console.jpg)](https://lonelystarsoftware.itch.io/playdapon)|
 |-----------------|
 |*"The classic 16-bit action puzzle game brought to your playdate in vivid 1-bit color"*.  Completed with Steve Lavietes.  See the [Announcement Devlog](https://lonelystarsoftware.itch.io/playdapon/devlog/453491/introducing-playdapon) for a write up on how we took the codebase from a genesis/megadrive version of the game to playdate.  *06/06/2023 Update*:  Now available on the Playdate store with a new time attack mode and high score tables!|
 |[Playdate Store](https://play.date/games/playdapon/)|
