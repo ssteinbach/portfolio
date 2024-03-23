@@ -22,7 +22,14 @@ Hi! Thanks for coming to visit, hope you're doing well!
 
 ## Recent Projects
 
-### 11/18/2022: PlayDaPon
+### 3/21/2024: Spice Collector Paper Prototype
+
+|[![Spice Collector](img/spice_collector.jpeg)](https://docs.google.com/document/d/13cuxh_kSykWd1Mdtiq4FyXhtRMY72ifpjUe10_LMrGs)|
+|-----------------|
+|A paper prototype for a two player dune spice collector themed board game.  Harvest spice, draw worms around the board to your advantage.|
+|[Rules](https://docs.google.com/document/d/13cuxh_kSykWd1Mdtiq4FyXhtRMY72ifpjUe10_LMrGs)|
+
+### 11/18/2022 + 6/6/23: PlayDaPon
 
 |[![PlayDaPon](img/pdp_console.png)](https://lonelystarsoftware.itch.io/playdapon)|
 |-----------------|
